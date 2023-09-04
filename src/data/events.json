@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "7a1e3d9f-7c0b-4b76-8571-8c2cb81b1a22",
+      "eventType": "Concert",
+      "eventName": "Music Fest 2023",
+      "date": "2023-10-15",
+      "location": "City Arena",
+      "ticketsAvailable": true
+    },
+    {
+      "id": "8e63d6d8-3b20-4d3c-9db5-12a8e8295f90",
+      "eventType": "Football Match",
+      "eventName": "Championship Final",
+      "date": "2023-11-05",
+      "location": "Stadium Park",
+      "ticketsAvailable": true
+    },
+    {
+      "id": "2dcebada-367a-4853-8f07-5a12e6c22653",
+      "eventType": "Concert",
+      "eventName": "Rock Legends Live",
+      "date": "2023-12-08",
+      "location": "Music Hall",
+      "ticketsAvailable": false
+    }
+  ]
+}
